@@ -1,0 +1,11 @@
+{
+  "name": "MangaDex",
+  "baseUrl": "https://mangadex.org",
+  "type": "MANGA",
+  "searchPath": "/titles?q=",
+  "listSelector": ".manga-entry",
+  "titleSelector": ".manga-title",
+  "linkSelector": "a.manga-link",
+  "coverSelector": "img.cover",
+  "coverAttr": "src"
+}
