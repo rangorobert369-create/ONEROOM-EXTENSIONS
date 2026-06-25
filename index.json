@@ -38,5 +38,6 @@
  { "name": "Manhwahub", "url": "https://raw.githubusercontent.com/rangorobert369-create/ONEROOM-EXTENSIONS/refs/heads/main/manhwahub.json", "type": "MANGA" },
  { "name": "MangaDex", "url": "https://raw.githubusercontent.com/rangorobert369-create/ONEROOM-EXTENSIONS/refs/heads/main/mangadex.json", "type": "MANGA" },
  { "name": "AllAnime", "url": "https://raw.githubusercontent.com/rangorobert369-create/ONEROOM-EXTENSIONS/refs/heads/main/allanime.json", "type": "ANIME" },
- { "name": "MangaKakalot", "url": "https://raw.githubusercontent.com/rangorobert369-create/ONEROOM-EXTENSIONS/refs/heads/main/mangakakalot.json", "type": "MANGA" }
+ { "name": "MangaKakalot", "url": "https://raw.githubusercontent.com/rangorobert369-create/ONEROOM-EXTENSIONS/refs/heads/main/mangakakalot.json", "type": "MANGA" },
+ { "name": "MangaKatana", "url": "https://raw.githubusercontent.com/rangorobert369-create/ONEROOM-EXTENSIONS/refs/heads/main/mangakatana.json", "type": "MANGA" }
  ]
