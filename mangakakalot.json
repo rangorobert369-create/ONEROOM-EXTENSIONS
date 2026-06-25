@@ -1,0 +1,11 @@
+{
+  "name": "MangaKakalot",
+  "baseUrl": "https://mangakakalot.com",
+  "type": "MANGA",
+  "searchPath": "/search/story/",
+  "listSelector": "div.story_item",
+  "titleSelector": "h3.story_name a",
+  "linkSelector": "h3.story_name a",
+  "coverSelector": "img",
+  "coverAttr": "src"
+}
