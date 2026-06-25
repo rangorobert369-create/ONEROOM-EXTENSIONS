@@ -1,0 +1,11 @@
+{
+  "name": "Webtoons",
+  "baseUrl": "https://www.webtoons.com",
+  "type": "MANGA",
+  "searchPath": "/en/search?keyword=",
+  "listSelector": ".card_lst li",
+  "titleSelector": ".subj",
+  "linkSelector": "a",
+  "coverSelector": "img",
+  "coverAttr": "src"
+}
