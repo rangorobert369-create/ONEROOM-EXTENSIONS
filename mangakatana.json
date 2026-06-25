@@ -1,0 +1,11 @@
+{
+  "name": "MangaKatana",
+  "baseUrl": "https://mangakatana.com",
+  "type": "MANGA",
+  "searchPath": "/?search_by=book_name&search=",
+  "listSelector": "#book_list .item",
+  "titleSelector": "h3.title a",
+  "linkSelector": "h3.title a",
+  "coverSelector": ".wrap_img img",
+  "coverAttr": "src"
+}
